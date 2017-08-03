@@ -16,5 +16,5 @@ Now go to config/plugins folder and paste the copied JAR there and restart your 
 
 Sample paths for Ubuntu
 
-/root/home/<user>/.<PRODUCT><VERSION>
+/root/home/<user>/.<code><PRODUCT><VERSION></code>
 
