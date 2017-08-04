@@ -1,4 +1,4 @@
-# intelliJSamplePlugin
+# IntelliJ Sample Plugin
 A sample plugin to generate customToString method for java POJOs.
 
 Deploying the Plugin
